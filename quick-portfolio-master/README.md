@@ -1,3 +1,4 @@
+Check out the minimal portfolio at https://jenisharaw.github.io/minimal-portfolio
 ## Developer Portfolio Landing Page Template
 
 ### Introduction
