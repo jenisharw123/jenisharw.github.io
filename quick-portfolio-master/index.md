@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Project 1 Title](file:///Users/u1431178/Downloads/Modeling%20Tasks.html)
 <img src="images/project_image.png?raw=true"/>
 
 ---
