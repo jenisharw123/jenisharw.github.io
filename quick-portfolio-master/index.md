@@ -11,5 +11,5 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/jenisharw/jenisharw.github.io.git/quick-portfolio">evanca</a></p>
+<p style="font-size:11px">Page template forked from <a href="https://github.com/jenisharw/jenisharw.github.io.git/quick-portfolio">Jenisha</a></p>
 <!-- Remove above link if you don't want to attibute -->
