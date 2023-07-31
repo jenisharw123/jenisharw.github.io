@@ -4,10 +4,11 @@
 
 ### Category Name 1 
 
-[Project 1 Title](file:///Users/u1431178/Downloads/Modeling%20Tasks.html)
+[Project 1 Title](https://github.com/jenisharw/jenisharw.github.io/tree/main/Capstone_Project) 
 <img src="images/project_image.png?raw=true"/>
 
 ---
+
 
 
 ---
