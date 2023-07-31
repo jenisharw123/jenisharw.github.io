@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](https://github.com/jenisharw/jenisharw.github.io/tree/main/Capstone_Project) 
+[Capstone Project](https://github.com/jenisharw/jenisharw.github.io/tree/main/Capstone_Project) 
 <img src="images/project_image.png?raw=true"/>
 
 ---
